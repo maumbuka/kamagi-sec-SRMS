@@ -1,2 +1,2 @@
 # kamagi-sec-SRMS
-Its a python web application used to manage students records 
+It's a python web application used to manage students records 
